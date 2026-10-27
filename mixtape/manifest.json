@@ -1,8 +1,8 @@
 {
   "type": "music",
-  "domain": "spotify",
+  "domain": "mixtape",
   "name": "Mixtape",
-  "description": "Spotify catalog, YouTube audio. Reads open.spotify.com's public web catalog for search and playlist metadata, and plays audio from YouTube using the same pipeline as the Boombox provider. Does not retrieve or play audio from Spotify. Does not require, use, or substitute for a Spotify account. No library sync, no personalized recommendations, no official support. If you have Spotify Premium, keep the official Spotify provider installed alongside this one.",
+  "description": "Spotify catalog, YouTube audio. Reads open.spotify.com's public web catalog for search and playlist metadata, and plays audio from YouTube using the same pipeline as the Boombox provider. Does not retrieve or play audio from Spotify. Does not require, use, or substitute for a Spotify account. No library sync, no personalized recommendations, no official support. Runs alongside the official Spotify provider; if you have Spotify Premium, keep that one for playback and use Mixtape only to browse.",
   "codeowners": ["@jgruber"],
   "credits": [
     "[spotube](https://github.com/team-spotube/spotube)",
